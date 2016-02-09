@@ -1,3 +1,3 @@
 # atom-settings
 
-My settings and pluguns for Atom.io
+My settings and pluguns for Atom

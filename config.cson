@@ -1,0 +1,11 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "b0c8e12d-3ff8-8a83-67e3-dba59b7a66d9"
+  minimap:
+    plugins:
+      "highlight-selected": true
+  welcome:
+    showOnStartup: false

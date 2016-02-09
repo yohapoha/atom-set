@@ -1,4 +1,9 @@
 "*":
+  autosave:
+    enabled: true
+  "coffee-compile":
+    compileOnSave: true
+    focusEditorAfterCompile: true
   core: {}
   editor:
     invisibles: {}
@@ -7,5 +12,7 @@
   minimap:
     plugins:
       "highlight-selected": true
+  "package-sync":
+    forceOverwrite: true
   welcome:
     showOnStartup: false

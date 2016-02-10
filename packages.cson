@@ -1,5 +1,6 @@
 packages: [
   "advanced-open-file"
+  "an-old-hope-syntax"
   "angularjs"
   "atom-beautify"
   "atom-bootstrap3"
@@ -9,6 +10,7 @@ packages: [
   "emmet"
   "file-icons"
   "highlight-selected"
+  "language-coffee-script-angular"
   "linter"
   "linter-bootlint"
   "linter-csslint"

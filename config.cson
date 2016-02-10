@@ -4,11 +4,19 @@
   "coffee-compile":
     compileOnSave: true
     focusEditorAfterCompile: true
+    noTopLevelFunctionWrapper: false
   core: {}
   editor:
     invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
   "exception-reporting":
     userId: "b0c8e12d-3ff8-8a83-67e3-dba59b7a66d9"
+  linter:
+    showErrorPanel: false
   minimap:
     plugins:
       "highlight-selected": true

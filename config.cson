@@ -5,7 +5,11 @@
     compileOnSave: true
     focusEditorAfterCompile: true
     noTopLevelFunctionWrapper: false
-  core: {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "an-old-hope-syntax"
+    ]
   editor:
     invisibles: {}
     scrollPastEnd: true
@@ -20,6 +24,7 @@
   minimap:
     plugins:
       "highlight-selected": true
+  "one-dark-ui": {}
   "package-sync":
     forceOverwrite: true
   welcome:

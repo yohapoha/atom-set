@@ -32,4 +32,4 @@
 '.text.html.angular':
     '[YP] gulp inject all':
         'prefix': 'gica'
-        'body': '\t<!-- build:css css/main.css -->\n\t<!-- inject:css -->\n\t<!-- endinject -->\n<!-- endbuild -->\n<!-- build:css css/vendors.css -->\n\t<!-- bower:css -->\n\t<!-- endbower -->\n<!-- endbuild -->\n<!-- build:js js/main.js -->\n\t<!-- inject:js -->\n\t<!-- endinject -->\n<!-- endbuild -->\n<!-- build:js js/vendors.js -->\n\t<!-- bower:js -->\n\t<!-- endbower -->\n<!-- endbuild -->'
+        'body': '<!-- build:css css/main.css -->\n\t<!-- inject:css -->\n\t<!-- endinject -->\n<!-- endbuild -->\n<!-- build:css css/vendors.css -->\n\t<!-- bower:css -->\n\t<!-- endbower -->\n<!-- endbuild -->\n<!-- build:js js/main.js -->\n\t<!-- inject:js -->\n\t<!-- endinject -->\n<!-- endbuild -->\n<!-- build:js js/vendors.js -->\n\t<!-- bower:js -->\n\t<!-- endbower -->\n<!-- endbuild -->'

@@ -5,6 +5,7 @@
     compileOnSave: true
     focusEditorAfterCompile: true
     noTopLevelFunctionWrapper: false
+    split: "Down"
   core:
     themes: [
       "one-dark-ui"
@@ -12,7 +13,7 @@
     ]
   editor:
     invisibles: {}
-    preferredLineLength: 100
+    preferredLineLength: 115
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
